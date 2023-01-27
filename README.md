@@ -1,4 +1,4 @@
-# project-httparty-cucumber-example
+# project-httparty-example
 
  ## Apresentação
 
